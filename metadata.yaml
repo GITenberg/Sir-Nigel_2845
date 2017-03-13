@@ -1,5 +1,8 @@
 _repo: Sir-Nigel_2845
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -19,6 +22,8 @@ description: "Sir Nigel is a historical novel set during the early phase of the 
   \ a knight in the service of King Edward III in the first phase of the Hundred Years'\
   \ War. The character is loosely based on the historical knight Neil Loring.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2845#Sir-Nigel
 gutenberg_issued: '2001-10-01'
 gutenberg_type: Text
 identifiers:
